@@ -1,3 +1,4 @@
 Allo Monde
 Hola Mundo
+Hallo Welt
 Konichiwa
